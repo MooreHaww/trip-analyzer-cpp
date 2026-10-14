@@ -23,4 +23,4 @@ make run
 
 or without make: `g++ -std=c++17 -O2 main.cpp analyzer.cpp -o app && ./app`
 
-Term project for Data Structures (CMP2003), Bahçeşehir University.
+
